@@ -1,10 +1,41 @@
 body{
+  background-color:#FCEBB6; ;
+  color: #221811;
+  width: 95%
+  text-align: center;
+}
+header{
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 10%;
+  background-color: #D2B48C;
+  color: #221811;
+}
+h1{
+  font-weight: bold;
+  font-size: 30px;
+}
+img{
+  float: left;
+  width: 90%;
 }
 
+nav{
+  float: left;
+  width: 10%;
+  background-color: #221811;
+  height: 740px;
+  text-align: center;
+}
+a{
+  font-size: 20px;
+  text-decoration: none;
+  color: #D2B48C;
+}
 .myClass{
 
 }
 #ID{
-
+  background-color: #D2B48C;
+    color: #221811;
 }
- 
